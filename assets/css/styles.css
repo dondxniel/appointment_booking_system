@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,900');
+@font-face{
+    font-family: montserrat-regular;
+    src: url('../font/montserrat/Montserrat-Regular.ttf');
+}
+
+*{
+    font-family: poppins, montserrat-regular;
+    font-size: 98%;
+}
+
+/* .subheading_pricing{
+    display: block;
+    margin-bottom: 5px;
+    color: #000000;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.9);
+}
+.pricing_body{
+    color: white;
+}
+.footer_list{
+    list-style: none;
+}
+.footer_list li{
+    display: inline;
+    float: left;
+    margin-right: 15px
+}
+.custom_navbar{
+    background-color: antiquewhite;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow : 1px 1px 20px 1px #ccc;
+}
+
+.white_bacground{
+    background-color: #fff;
+} */
+
+.booking_form{
+    background-color: white;
+    border: .5px solid #ccc;
+    border-radius : 20px;
+    padding: 15px;
+    font-size: 80%;
+}
+.booking_form label{
+    font-weight: bold;
+}
+.custom_footer{
+    padding: 200px 0 200px 0;
+}
+
+.grey_border{
+    background-color: white;
+    border: .5px solid #ccc;
+    border-radius : 20px;
+    padding: 15px;
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 5px;
+    color: #111;
+    
+}
+.margin_100{
+    margin-top: 100px;
+}
